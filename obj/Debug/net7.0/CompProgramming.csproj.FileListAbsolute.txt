@@ -1,0 +1,15 @@
+/home/htc3/Documents/CompProgramming/bin/Debug/net7.0/CompProgramming
+/home/htc3/Documents/CompProgramming/bin/Debug/net7.0/CompProgramming.deps.json
+/home/htc3/Documents/CompProgramming/bin/Debug/net7.0/CompProgramming.runtimeconfig.json
+/home/htc3/Documents/CompProgramming/bin/Debug/net7.0/CompProgramming.dll
+/home/htc3/Documents/CompProgramming/bin/Debug/net7.0/CompProgramming.pdb
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/CompProgramming.csproj.AssemblyReference.cache
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/CompProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/CompProgramming.AssemblyInfoInputs.cache
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/CompProgramming.AssemblyInfo.cs
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/CompProgramming.csproj.CoreCompileInputs.cache
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/CompProgramming.dll
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/refint/CompProgramming.dll
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/CompProgramming.pdb
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/CompProgramming.genruntimeconfig.cache
+/home/htc3/Documents/CompProgramming/obj/Debug/net7.0/ref/CompProgramming.dll
